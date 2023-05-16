@@ -1,1 +1,1 @@
-# portugol Only instict
+# portugol Only instinct
