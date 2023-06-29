@@ -1,0 +1,8 @@
+void main() {
+  
+const pi = 3.14;
+  bool escolha = true;
+  
+  //"$" = converte numero em string sem usar toString
+  print("valor é "+ "$pi"+" "+ "$escolha");
+}
